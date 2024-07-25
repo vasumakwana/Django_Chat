@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
     ```bash
     git clone <repository-url>
-    cd DjangoProjects/Chat
+    cd Django_Chat
     ```
 
 2. **Activate the virtual environment:**
