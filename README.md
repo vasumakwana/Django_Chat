@@ -4,7 +4,7 @@
 
 Welcome to the Django Chat Application! This is a simple, real-time chat application built with Django. Users can create an account, join chat rooms, and engage in conversations with others.
 
-[![cd Screenshots/Screenshot.png]
+![Screenshot](/Screenshots/Screenshot.png?raw=true "Home Page")
 
 ## Libraries and Frameworks
 
